@@ -1,0 +1,9 @@
+{
+	"name": "factoryazurevs",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75ee59fa-44f7-4273-89fb-f8a7e14cc5bb",
+		"tenantId": "ef0f8654-9799-49c2-a40c-8edcadc8ff70"
+	}
+}
