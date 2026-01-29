@@ -1,0 +1,10 @@
+{
+	"name": "deltalake",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://storageaccountazurevs.dfs.core.windows.net/"
+		}
+	}
+}
